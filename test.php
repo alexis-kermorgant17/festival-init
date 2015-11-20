@@ -1,5 +1,6 @@
 <?php
 //crÃ©ation du fichier par ilapasditbonjourpoutain le 20/11/15 vers 10h
 //ajout d'une deuxiÃ¨me ligne inutile lel
-//Ajout d'une troisième ligne inutile par ilapasditbonjour le 20/11/15 à 10:30ggg
+//Ajout d'une troisiï¿½me ligne inutile par ilapasditbonjour le 20/11/15 ï¿½ 10:30ggg
+//ajout de la 4e ligne swag
 ?>
